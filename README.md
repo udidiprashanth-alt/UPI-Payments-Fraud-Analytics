@@ -2,7 +2,7 @@
 
 An end-to-end analytics project that uses SQL, Python, and Power BI to analyze UPI transaction performance, fraud patterns, and risk scores.
 
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard](executive_dashboard.png)
 
 ## Business Problem
 UPI processes a very large volume of digital payments, and even a small fraud rate creates financial and trust risk. This project tracks transaction health, finds where and when fraud concentrates, and helps investigators prioritize high-risk transactions.
