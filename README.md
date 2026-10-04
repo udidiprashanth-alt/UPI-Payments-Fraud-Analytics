@@ -57,20 +57,20 @@ UPI processes a very large volume of digital payments, and even a small fraud ra
 ## Charts
 <table>
   <tr>
-    <td><img src="screenshots/charts/02_monthly_transaction_value.png" width="400"></td>
-    <td><img src="screenshots/charts/03_monthly_fraud_value.png" width="400"></td>
+    <td><img src="02_monthly_transaction_value.png" width="400"></td>
+    <td><img src="03_monthly_fraud_value.png" width="400"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/charts/09_fraud_value_by_city.png" width="400"></td>
-    <td><img src="screenshots/charts/10_fraud_cases_by_fraud_type.png" width="400"></td>
+    <td><img src="09_fraud_value_by_city.png" width="400"></td>
+    <td><img src="10_fraud_cases_by_fraud_type.png" width="400"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/charts/11_fraud_rate_by_hour.png" width="400"></td>
-    <td><img src="screenshots/charts/12_fraud_cases_by_bank.png" width="400"></td>
+    <td><img src="11_fraud_rate_by_hour.png" width="400"></td>
+    <td><img src="12_fraud_cases_by_bank.png" width="400"></td>
   </tr>
   <tr>
-    <td><img src="screenshots/charts/08_risk_score_distribution.png" width="400"></td>
-    <td><img src="screenshots/charts/05_transaction_value_by_channel.png" width="400"></td>
+    <td><img src="08_risk_score_distribution.png" width="400"></td>
+    <td><img src="05_transaction_value_by_channel.png" width="400"></td>
   </tr>
 </table>
 
