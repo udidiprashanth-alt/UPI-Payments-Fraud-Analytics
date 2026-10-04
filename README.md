@@ -28,18 +28,17 @@ UPI processes a very large volume of digital payments, and even a small fraud ra
 | Fraud Rate (calculated) | about 3.6% of transactions, 3.3% of value |
 
 ## Dashboards
-
 ### Executive View
-![Executive Dashboard](screenshots/executive_dashboard.png)
+![Executive Dashboard](executive_dashboard.png)
 
 ### Fraud Analytics
-![Fraud Dashboard](screenshots/fraud_dashboard.png)
+![Fraud Dashboard](fraud_dashboard.png)
 
 ### Operations & Risk
-![Operations Dashboard](screenshots/operations_dashboard.png)
+![Operations Dashboard](operations_dashboard.png)
 
 ### Investigation Table
-![Investigation Table](screenshots/investigation_table.png)
+![Investigation Table](investigation_table.png)
 
 ## Key Insights
 1. **Fraud is spread across cities, but a few lead.** Lucknow ($98K), Jaipur ($91K), and Hyderabad ($87K) are the top three, about 37% of total fraud value (calculated). Mumbai is lowest at $50K.
